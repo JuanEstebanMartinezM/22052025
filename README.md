@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# 22052025
+En el presente repositorio se almacenará el contenido referente a la evidencia numero dos 
+=======
 # Clase HTML, CSS 22/05/2025
 ## Especificación para la entrega de la evidencia
 
@@ -51,3 +55,4 @@
  `<sub>`  | Texto más bajo de la línea (subíndice)  
  `<sup>`  | Texto sobre la línea (superíndice) 
  `<q>`  | Texto en comillas      
+>>>>>>> 83b08df (Primer avance del proyecto Real Madrid)
